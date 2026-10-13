@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rhenoboy.github.io/vexo-client-site/sitemap.xml
